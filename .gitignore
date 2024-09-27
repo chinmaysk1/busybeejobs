@@ -41,3 +41,4 @@ next-env.d.ts
 .env"sendgrid.env" 
 node_modules
 node_modules
+'.env' 
